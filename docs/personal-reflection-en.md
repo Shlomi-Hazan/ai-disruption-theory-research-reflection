@@ -1,6 +1,7 @@
 # As Artificial Intelligence Advances, What Will Become of the Next Generation?
 
 A Personal Reflection on the Article *AI Disruption and Falling Costs in Theory Research*
+**Shlomi Hazan**
 
 ## Introduction
 
